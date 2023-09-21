@@ -42,21 +42,6 @@ Small project created with the purpose of learning how to implement React inside
     <li>Ruby on Rails</li>
   </ul>
 </details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="#">Ruby on Rails</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="#">Postgresql</a></li>
-  </ul>
-</details>
-
 <!-- Features -->
 
 ### Key Features <a id="key-features"></a>
